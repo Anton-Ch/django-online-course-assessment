@@ -45,19 +45,33 @@ Your responsibilities included:
 
 ## 📂 Repository Structure
 django-online-course-assessment/
+
 ├── .git/                          # Git version control metadata
+
 ├── .gitignore                     # Ignored files and folders (env, caches, etc.)
+
 ├── final-cloud-app-with-database/ # Starter Django project from Coursera
+
 │ ├── myproject/                   # Django project configuration (settings, urls, wsgi, etc.)
+
 │ ├── onlinecourse/                # Main application logic (models, views, urls)
+
 │ ├── static/                      # Static files (CSS, JS, images)
+
 │ ├── LICENSE                      # License file
+
 │ ├── manage.py                    # Django project entry point
+
 │ ├── manifest.yml                 # Cloud deployment configuration
+
 │ ├── Procfile                     # Deployment process definition (Heroku/Cloud)
+
 │ ├── README.md                    # Starter documentation
+
 │ ├── requirements.txt             # Python dependencies
+
 │ └── runtime.txt                  # Runtime environment configuration (Python version)
+
 
 ## ⚡ Quick Start
 
